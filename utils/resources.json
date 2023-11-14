@@ -1,16 +1,1 @@
-[
-    {
-        "name": "Samsung 50-inch TV",
-        "location": "Blk 3 Lvl 5 Rm 1",
-        "description": "Purchased for XYZ Exhibition",
-        "owner": "john@gmail.com",
-        "id": "1698733871458284"
-    },
-    {
-        "name": "iPhone 15",
-        "location": "Blk 3 Lvl 1 Rm 2",
-        "description": "For software development testing",
-        "owner": "peter@gmail.com",
-        "id": "1698734134394651"
-    }
-]
+[{"name":"Samsung 50-inch TV","location":"Blk 3 Lvl 5 Rm 1","description":"Purchased for XYZ Exhibition","owner":"john@gmail.com","id":"1698733871458284"},{"name":"iPhone 15","location":"Blk 3 Lvl 1 Rm 2","description":"For software development testing","owner":"peter@gmail.com","id":"1698734134394651"},{"name":"test","location":"Blk 3 Lvl 1 Rm 5","description":"Testing","owner":"peter@gmail.com","id":"1698740333303171"}]
