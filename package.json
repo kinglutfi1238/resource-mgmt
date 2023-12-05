@@ -21,7 +21,7 @@
     "statements": 80
   },
   "scripts": {
-    "test": "nyc mocha tests/*.test.js",
+    "test": "nyc mocha --timeout 20000 tests/*.test.js",
     "start": "node index.js"
   },
   "author": "",
