@@ -35,6 +35,7 @@
     "fs": "^0.0.1-security",
     "mocha": "^10.2.0",
     "nyc": "^15.1.0",
-    "selenium-webdriver": "^4.15.0"
+    "selenium-webdriver": "^4.15.0",
+    "terraform": "^1.23.0"
   }
 }
